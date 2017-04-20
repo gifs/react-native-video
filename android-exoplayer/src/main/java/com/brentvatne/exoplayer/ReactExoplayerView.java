@@ -92,7 +92,7 @@ class ReactExoplayerView extends FrameLayout implements
     private String extension;
     private boolean repeat;
     private boolean disableFocus;
-    private float mProgressUpdateInterval = 250.0f;
+    private float mProgressUpdateInterval = 10.0f;
     // \ End props
 
     // React
